@@ -1,3 +1,3 @@
-window.addEventListener(function(e){
-    
-} )
+window.addEventListener('keydown' ,function(e){
+console.log(e)
+});
