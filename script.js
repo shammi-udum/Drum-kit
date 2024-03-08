@@ -1,1 +1,3 @@
-let x = "sound";
+window.addEventListener(function(e){
+    
+} )
